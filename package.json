@@ -1,0 +1,17 @@
+{
+  "name": "js-npm",
+  "version": "1.0.0",
+  "description": "Node.js server with plain JavaScript",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
